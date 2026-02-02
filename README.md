@@ -1,6 +1,6 @@
 # 👩‍💻 Maria Vitória
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora backend`**
 
 Sou a Maria Vitória, tenho 20 anos sou natural de Goiânia-GO. Atualmente estou cursando o 5º período em Engenharia de Computação na Universidade Federal de Goiás. Com foco em deseolvivmento e cibersegurança, os estudos são constantes e compartilho aqui meus projetos.
 
@@ -39,19 +39,4 @@ align="left"
 <br/>
 <br/>
 
-### 🤖 Estatísticas
 
-<img 
-  align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src = "https://github-readme-stats.vercel.app/api?username=mvitoriasousa67&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br"
-/>
-<img 
-  align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mvitoriasousa67&layout=compact"
-/>
