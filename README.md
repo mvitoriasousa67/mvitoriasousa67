@@ -6,7 +6,7 @@ Sou a Maria Vitória, tenho 20 anos sou natural de Goiânia-GO. Atualmente estou
 
 ---
 
-### 🤖 Linguagens e tecnologias
+### 🤖 Linguagens
 
 
 <img 
